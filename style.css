@@ -401,8 +401,7 @@ h4 { font-size: 1.2rem; color: #d4af37; }
   text-align: left;        /* same alignment as main heading */
   padding-left: 22px;      /* slightly more to match design */
   font-weight: 400;
-}
-/* ================= WISHLIST HEADER ================= */
+}/* ================= WISHLIST HEADER ================= */
 .wishlist-header {
   display: flex;
   align-items: center;
@@ -436,3 +435,4 @@ h4 { font-size: 1.2rem; color: #d4af37; }
   font-weight: 600;
   color: #d4af37; /* gold */
 }
+
